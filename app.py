@@ -169,7 +169,7 @@ def createFlex(bubble_json):
 
     lineres = {
         'type': 'flex',
-        'altText': 'This is a Flex message',
+        'altText': 'This is a Flex message2',
         'contents': {
             "type": "bubble",
             "contents": bubble_json
